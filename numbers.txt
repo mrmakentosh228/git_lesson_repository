@@ -1,2 +1,5 @@
 new
+<<<<<<< HEAD
 ghgh
+=======
+>>>>>>> a82dc5a1187a44e6d3a17c0d4ae7f98b8d8c6f5f
